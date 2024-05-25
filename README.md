@@ -2,6 +2,9 @@
 
 Welcome to **Crypto Hunter**, your one-stop destination for all things cryptocurrency! Built with React and Material-UI, Crypto Hunter empowers you to explore, track, and stay updated on the latest trends and developments in the ever-evolving world of cryptocurrencies.
 
+## Live URL
+Explore Crypto Hunter live at https://crypto-hunter.netlify.app/
+
 ## Features
 
 ### 1. Live Cryptocurrency Data
@@ -27,19 +30,42 @@ Welcome to **Crypto Hunter**, your one-stop destination for all things cryptocur
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sdsutariya/crypto-hunter.git
-
+```bash
+git clone https://github.com/sdsutariya/crypto-hunter.git
+```
+   
 2. **Navigate to the project directory:**
-   ```bash   
-  cd crypto-hunter
+```bash   
+cd crypto-hunter
+```
 
 3. **Install dependencies:**
-   ```bash   
-  npm install
+```bash   
+npm install
+```
 
 4. **Start the development server:**
-   ```bash   
-  npm start
+```bash   
+npm start
+```
 
 5. **Open your browser and visit http://localhost:3000 to view the application.**    
+
+## Contributing
+
+Crypto Hunter is an open-source project, and contributions from the community are highly encouraged! Whether you're a developer, designer, or crypto enthusiast, you can contribute to the project by:
+
+- Reporting bugs or suggesting features by opening an issue.
+- Forking the repository and submitting pull requests for enhancements or bug fixes.
+- Sharing feedback and ideas to help improve the application.
+
+We value and appreciate your contributions!
+
+## Get in Touch
+
+Have questions, feedback, or suggestions? Feel free to reach out to us:
+
+- Email: [sutariyasumit8000@gmail.com](mailto:sutariyasumit8000@gmail.com)
+
+Join our growing community of crypto enthusiasts, and embark on an exciting journey with Crypto Hunter!
+
